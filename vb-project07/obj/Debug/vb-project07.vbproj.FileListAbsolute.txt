@@ -1,0 +1,17 @@
+\\Mac\Home\Documents\i-workspace\visual basic\vb-project07\vb-project07\bin\Debug\vb-project07.exe.config
+\\Mac\Home\Documents\i-workspace\visual basic\vb-project07\vb-project07\bin\Debug\vb-project07.exe
+\\Mac\Home\Documents\i-workspace\visual basic\vb-project07\vb-project07\bin\Debug\vb-project07.pdb
+\\Mac\Home\Documents\i-workspace\visual basic\vb-project07\vb-project07\bin\Debug\vb-project07.xml
+\\Mac\Home\Documents\i-workspace\visual basic\vb-project07\vb-project07\obj\Debug\vb-project07.vbprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\i-workspace\visual basic\vb-project07\vb-project07\obj\Debug\vb_project07.Form_vb01.resources
+\\Mac\Home\Documents\i-workspace\visual basic\vb-project07\vb-project07\obj\Debug\vb_project07.Resources.resources
+\\Mac\Home\Documents\i-workspace\visual basic\vb-project07\vb-project07\obj\Debug\vb-project07.vbproj.GenerateResource.Cache
+\\Mac\Home\Documents\i-workspace\visual basic\vb-project07\vb-project07\obj\Debug\vb-project07.exe
+\\Mac\Home\Documents\i-workspace\visual basic\vb-project07\vb-project07\obj\Debug\vb-project07.xml
+\\Mac\Home\Documents\i-workspace\visual basic\vb-project07\vb-project07\obj\Debug\vb-project07.pdb
+\\Mac\Home\Documents\i-workspace\visual basic\vb-project07\vb-project07\obj\Debug\vb_project07.Form_vb02.resources
+\\Mac\Home\Documents\i-workspace\visual basic\vb-project07\vb-project07\obj\Debug\vb_project07.Form_vb03.resources
+\\Mac\Home\Documents\i-workspace\visual basic\vb-project07\vb-project07\obj\Debug\vb_project07.Form_vb04.resources
+\\Mac\Home\Documents\i-workspace\visual basic\vb-project07\vb-project07\obj\Debug\vb_project07.Form_vb05.resources
+\\Mac\Home\Documents\i-workspace\visual basic\vb-project07\vb-project07\obj\Debug\vb_project07.Form_vb06.resources
+\\Mac\Home\Documents\i-workspace\visual basic\vb-project07\vb-project07\obj\Debug\vb_project07.MainFrame.resources
