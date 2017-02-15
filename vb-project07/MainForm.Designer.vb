@@ -432,7 +432,7 @@ Partial Class MainFrame
         Me.Controls.Add(Me.GroupBox2)
         Me.Controls.Add(Me.GroupBox1)
         Me.Name = "MainFrame"
-        Me.Text = "Pablo González Rubio"
+        Me.Text = " "
         Me.GroupBox1.ResumeLayout(False)
         Me.GroupBox2.ResumeLayout(False)
         Me.GroupBox3.ResumeLayout(False)

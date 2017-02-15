@@ -1,0 +1,11 @@
+/Users/pablo/Documents/i-workspace/visual basic/vb-project07/vb-project07/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.vb
+/Users/pablo/Documents/i-workspace/visual basic/vb-project07/vb-project07/obj/Debug/vb_project07.Form_vb06.resources
+/Users/pablo/Documents/i-workspace/visual basic/vb-project07/vb-project07/obj/Debug/vb_project07.Form_vb05.resources
+/Users/pablo/Documents/i-workspace/visual basic/vb-project07/vb-project07/obj/Debug/vb_project07.Form_vb04.resources
+/Users/pablo/Documents/i-workspace/visual basic/vb-project07/vb-project07/obj/Debug/vb_project07.Form_vb03.resources
+/Users/pablo/Documents/i-workspace/visual basic/vb-project07/vb-project07/obj/Debug/vb_project07.Form_vb02.resources
+/Users/pablo/Documents/i-workspace/visual basic/vb-project07/vb-project07/obj/Debug/vb_project07.Form_vb01.resources
+/Users/pablo/Documents/i-workspace/visual basic/vb-project07/vb-project07/obj/Debug/vb_project07.MainFrame.resources
+/Users/pablo/Documents/i-workspace/visual basic/vb-project07/vb-project07/obj/Debug/vb_project07.Resources.resources
+/Users/pablo/Documents/i-workspace/visual basic/vb-project07/vb-project07/obj/Debug/vb-project07.exe
+/Users/pablo/Documents/i-workspace/visual basic/vb-project07/vb-project07/obj/Debug/vb-project07.pdb
